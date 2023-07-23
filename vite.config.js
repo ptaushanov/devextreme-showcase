@@ -5,6 +5,7 @@ import postcssNesting from 'postcss-nesting';
 // https://vitejs.dev/config/
 export default ({ mode }) => {
   return defineConfig({
+    base: '/devextreme-showcase/',
     css: {
       postcss: {
         plugins: [
