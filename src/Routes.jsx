@@ -1,4 +1,4 @@
-import { Routes as Switch, Route } from "react-router-dom"
+import { Routes as Switch, Route, HashRouter } from "react-router-dom"
 import {
     Home,
     NotFound,

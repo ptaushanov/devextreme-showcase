@@ -3,7 +3,7 @@ import "./dx-styles.scss"
 import './themes/generated/theme.additional.css';
 
 import Routes from './Routes';
-import { BrowserRouter as Router } from "react-router-dom"
+import { HashRouter as Router } from "react-router-dom"
 
 function App() {
   return (
