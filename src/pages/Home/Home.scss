@@ -1,0 +1,28 @@
+.content {
+    display: flex;
+    align-items: center;
+    margin-top: 40px;
+}
+
+.image-content {
+    img {
+        border-radius: 6px;
+        width: 200px;
+        height: 200px;
+    }
+}
+
+.text-content {
+    padding: 0 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    h1 {
+        margin: 0.25rem 0;
+    }
+
+    p {
+        margin: 0.25rem 0;
+    }
+}

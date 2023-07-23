@@ -1,0 +1,15 @@
+.dx-chart-divider {
+    margin-top: 20px;
+}
+
+.dx-action {
+    display: flex;
+    padding: 20px;
+    justify-content: right;
+    align-items: center;
+
+    .dx-label {
+        font-size: 14px;
+        margin-right: 20px;
+    }
+}

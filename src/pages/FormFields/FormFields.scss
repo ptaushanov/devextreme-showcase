@@ -1,0 +1,57 @@
+.dx-form {
+    margin-top: 20px;
+}
+
+.dx-box-flex {
+    display: flex;
+    align-items: center;
+
+    .dx-h4,
+    .dx-subtext {
+        margin: 0.5rem 0;
+    }
+
+    .dx-h4 {
+        margin-right: 0.5rem;
+    }
+}
+
+.dx-flex-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.dx-flex-item {
+    flex: 1;
+}
+
+.dx-h4 {
+    margin-bottom: 0.4rem;
+}
+
+.dx-subtext {
+    margin: 0.25rem 0;
+}
+
+.dx-simple-item > label {
+    margin-top: 0.25rem;
+    margin-bottom: 0.5rem;
+}
+
+.dx-col-menu {
+    display: flex;
+    justify-content: flex-end;
+    margin: 1.5rem 0 0 0;
+}
+
+.dx-field {
+    margin-right: 2rem;
+}
+
+.dx-form-group-caption {
+    font-size: 14px;
+}
+
+.dx-submit {
+    align-self: flex-end;
+}
