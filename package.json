@@ -29,6 +29,6 @@
     "devextreme-themebuilder": "^22.1.3",
     "gh-pages": "^5.0.0",
     "postcss-nesting": "^10.2.0",
-    "vite": "^3.1.0"
+    "vite": "^4.4.6"
   }
 }
